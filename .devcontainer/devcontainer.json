@@ -38,7 +38,7 @@
     "postCreateCommand": "cd ./SampleApp && dotnet restore",
     "hostRequirements": {
         "memory": "8gb",
-        "cpus": 4
+        "cpus": 2
     },
     "remoteEnv": {
         "DOTNET_MULTILEVEL_LOOKUP": "0",
